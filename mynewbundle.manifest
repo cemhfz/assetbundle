@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 527809250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a46cafcfccff8640916a0d316020d1a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce609b79d8d9cc6a220253459fa625e1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/mynewbundle/gemi.fbx
+- Assets/BundledAssets/mynewbundle/sandal.fbx
+- Assets/BundledAssets/mynewbundle/Nikolas_Walking.fbx
+- Assets/BundledAssets/mynewbundle/nikolas low_rigli.fbx
+Dependencies: []
